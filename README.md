@@ -1,2 +1,2 @@
-# Coursera_HTML_CSS_-JS_for_Web_Developers
+# Coursera_HTML_CSS_JS_for_Web_Developers
 Coursera_Projects
